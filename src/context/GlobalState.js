@@ -4,10 +4,10 @@ import TransactionContext from './TransactionContext'
 const GlobalState = (props) => {
     let initialState = {
         transactions: [
-            { id: 1, text: 'Flower', amount: -20 },
-            { id: 2, text: 'Salary', amount: 300 },
-            { id: 3, text: 'Book', amount: -10 },
-            { id: 4, text: 'Camera', amount: 150 }
+            { id: 1, text: 'My Tution Wage', amount: 3680 },
+            { id: 2, text: 'Fuel', amount: -500 },
+            { id: 3, text: 'Sadaqa', amount: -800 },
+            { id: 4, text: 'Eidi', amount: 1500 }
         ]
     }
 
